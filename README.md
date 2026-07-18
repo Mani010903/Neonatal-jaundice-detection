@@ -88,8 +88,11 @@ Neonatal-jaundice-detection/
 │
 └── README.md
 ```
+🎥 Project Demo
 
+A demonstration of the application workflow and frontend interface:
 
+https://youtu.be/G0vyK2nvWIc)
 
 
 ## ⚙️ Installation & Usage
